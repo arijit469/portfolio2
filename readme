@@ -1,0 +1,5 @@
+<!-- run this project using command :npm  run dev  -->
+npm install date-fns@^2.28.0 --save
+npm install -D tailwindcss postcss autoprefixer --legacy-peer-deps
+npm install -D tailwindcss postcss autoprefixer
+npm install --save-exact --save-dev typescript @types/react @types/node
